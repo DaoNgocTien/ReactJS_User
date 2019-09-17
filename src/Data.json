@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "name": "Kao Thu",
+        "phone": "11",
+        "role": "1"
+    },
+    {
+        "id": "2",
+        "name": "Cao Thu",
+        "phone": "11",
+        "role": "2"
+    },
+    {
+        "id": "3",
+        "name": "Katie",
+        "phone": "11",
+        "role": "3"
+    },
+    {
+        "id": "4",
+        "name": "Tien Dao",
+        "phone": "11",
+        "role": "1"
+    },
+    {
+        "id": "5",
+        "name": "Sam",
+        "phone": "11",
+        "role": "2"
+    }
+]
